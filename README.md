@@ -14,7 +14,7 @@ This coursework it part of the course:
 
 ---
 
-### Repository structure
+### This Repository structure
 
 <details><summary>Repository files and folders: <code>(Click the arrow to see details)</code> </summary>
 
@@ -36,56 +36,113 @@ This coursework it part of the course:
 The main tasks in this coursework follows a normal web-project path, with WebApp design, WebApp development, testing and deployment.
 Its based on the well tested methodologies like: DesignThinking, LEAN Startup and Agile Development.
 
-<detail><summary>The steps will be:</summary>
+The steps is:
+- [X] 0. Accept the Assignment: (Allready done as you are here)
 
-1. Read the Challenge text:  
-*this is a short description of the challenge to be solved by this WebApp*
-The student(s) will read the challenge text and.
+- [ ] 1. Read the Challenge text:
+        <details><summary>More ...</summary>
+        *this is a short description of the challenge to be solved by this WebApp*
+        The student(s) will read the challenge text and start working.  
+        </details>
+- [ ] 2. Make the Business proposition:
+        <details><summary>More ...</summary>
+        *What's in it for the end-user/organization ...*
+        The student(s) will write down a business proposition (in the StudentAnswer.md file)
+        </details>
+- [ ] 3. Design a solution:
+        <details><summary>More ...</summary>
+        *How should the end-user/organization use the WebApp*  
+        The student(s) will make a UX-design and then a UI-design for the WebApp.
+        </details>
+- [ ] 4. Implement the solution:
+        <details><summary>More...</summary>
+        *Implement the WebApp based on the design spec from previous step.*
+        The student(s) will develop the WebApp using the src folder to write the source code ( HTML, CSS, JavaScript).  
+        Tips:
+        *you can use the following resources to help you with this*
+        </details>
+- [ ] 5. Deploy the solution:
+        <details><summary>More ...</summary>
+        ...
+        </details>
+- [ ] 6. Push the solution to GitHub:
+        <details><summary>More ...</summary>
+        *Push the WebApp to GitHub*
+        When you are finished with the coursework, you can push the branch to GitHub to complete the assignment.     
+        </details>
 
-1. Business proposition:  
-*What's in it for the end-user/organization ...*
-The student(s) will write down a business proposition (in the StudentAnswer.md file)
-
-1. Design a solution:  
-*How should the end-user/organization use the WebApp*   
-The student(s) will make a UX-design and then a UI-design for the WebApp.
-
-1. Implementation of the solution:  
-*Implement the WebApp based on the design spec from previous step.*
-The student(s) will develop the WebApp using the src folder to write the source code ( HTML, CSS, JavaScript).
-1. Deploy the solution
-
-2. Push the branch to GitHub to complete the assingment.
-
-</detail>
+</details>
 
 ---
 
+### Tips for the coursework
+
+<details><summary>HTML tips</summary>
+
+- Start with making a HTML-file in the src folder.
+- Edit the HTML-file with your HTML-markup for your WebApp.
+- Add CSS-styles to the HTML-file.
+- Add JavaScript to the HTML-file.
+
+Check the tutorial on [HTML-tutorial](https://www.w3schools.com/html/default.asp) for more details.
+
+</details>
+<details><summary>CSS tips</summary>
+
+- Check the tutorial on [CSS-tutorial](https://www.w3schools.com/css/default.asp) for CSS-basics.
+
+</details>
+<details><summary>JavaScript tips</summary>
+
+- Check the tutorial on [JavaScript-tutorial](https://www.w3schools.com/js/default.asp) for JavaScript-basics.
+
+</details>
+
 ---
 
-<span>
-<code style="color: green">  Keep striving for progress over perfection, a little progress every day will go a very long way!" :)  </code>
+[Go to StudentAnswer.md](StudentAnswer.md#)
+
+---
+
+[Go to top](#)
+
+<hr style="background: green" /> 
+<span style="color: green">
+Remember : Keep striving for progress over perfection! A little progress every day will go a very long way!" :)
 </span>
+<hr style="background: green" /> 
+
+---
+---
+
+.
+
+.
+
+.
+
+.
 
 ---
 
-Test html formatting:
+---
 
-<span style="background: gray">
+## Testing html formatting:
+
+<span style="background: yellow">
 <code style="color: green">  Keep striving for progress over perfection, a little progress every day will go a very long way!" :)  </code>
 </span>
 
 ---
 
 <span style="color: green;">
-<p style="font-size: 14pt;"> 
-<font size="5">Keep striving for progress over perfection, a little progress every day will go a very long way!" :) </font></p>
+<font size="5">Keep striving for progress over perfection, a little progress every day will go a very long way!" :) </font>
 </span>
 
 ---
   
 <span>
-<code style="color: yellow">  Keep striving for progress over perfection, a little progress every day will go a very long way!" :)  </code>
+<code style="color: yellow"> <font size="3">  Keep striving for progress over perfection, a little progress every day will go a very long way!" :)  </code>
 </span>
 
 ---
