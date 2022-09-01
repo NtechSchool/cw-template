@@ -1,4 +1,4 @@
-# The Challenge for this coursework 
+# The Challenge for this coursework
 
 The challenge for this Coursework is to create a WebApp that can be used to:
 
