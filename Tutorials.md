@@ -45,3 +45,11 @@ Open the links below and click "Next" button to run through the tutorial.
 
 
 After finished the tutorials, you can rerun the selftests and check if you improved your score (and your knowledge) :)!
+
+---
+
+<hr style="background: gray" /> 
+
+Navigation :  [Top](#) | [Student_readme](Student_readme#) | [TheChallenge](TheChallenge#) | [StudentAnswer](StudentAnswer#) | 
+
+<hr style="background: gray" /> 

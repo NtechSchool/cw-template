@@ -54,3 +54,12 @@
 1. Deployment
 The deployment can be found in :
 https://host......
+
+---
+
+.
+
+<hr style="background: gray" /> 
+
+Navigation :  [Top](#) | [Student_readme](Student_readme#) | [Tutorials](Tutorials#) |[TheChallenge](TheChallenge#) |
+<hr style="background: gray" /> 
