@@ -10,6 +10,6 @@
 
 <hr style="background: gray" />
 
-Go to the Student_readme file :  [Top](#) | [Student_readme](Student_readme#)
+Go to the Student_readme file :  [Top](#) | [Student_readme](./Student_readme#)
 
 <hr style="background: gray" />
