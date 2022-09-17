@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This coursework it part of the course:
+This Coursework it part of the course: WebApp Developer Study
 
         Subject:  xxxxx
         Topic: xxxxx
@@ -23,7 +23,7 @@ This coursework it part of the course:
 
 ---
 
-### This Repository structure
+### Repository structure
 
 This Repository files and folders:
 
