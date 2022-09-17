@@ -14,7 +14,9 @@ To Perform this Coursework you need following knowledge:
 
 ## Selftests
 
-You can take a selftest to check if you have the necessary knowledge. (Right-click the link to open in new tab or window)
+You can take a selftest to check if you have the necessary knowledge. 
+
+(Right-click the link to open in new tab or window)
 
 1. [GitHub-basic selftest](https://www.w3schools.com/git/git_quiz.asp?remote=github)
 
