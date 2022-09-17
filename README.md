@@ -1,8 +1,8 @@
 # Coursework: Module
 
-## Repository name:  ntech-subjectTopic-module
+## Repository name:  cw--subjectTopic-module
 
-## Coursework for : NTech
+## Coursework for : NTech WebApp Study
 
     Subject : xxx
     Topic   : xxx
