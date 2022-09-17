@@ -1,4 +1,4 @@
-# Coursework: Module
+# NTech Coursework: Module
 
 ## Repository name:  cw--subjectTopic-module
 
