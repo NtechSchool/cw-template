@@ -19,7 +19,7 @@ You can take a selftest to check if you have the necessary knowledge.
 1. [GitHub-basic selftest](https://www.w3schools.com/git/git_quiz.asp?remote=github)
 
 
-2. [HTML-basic selftest](https://www.w3schools.com/html/html_quiz.asp)
+2. [HTML-basic selftest](https://www.w3schools.com/html/html_quiz.asp){:target="_blank" rel="noopener"}
 3. [CSS-basic selftest](https://www.w3schools.com/css/css_quiz.asp)
 4. [JavaScript-basic selftest](https://www.w3schools.com/js/js_quiz.asp)
 5. [Webdev-project basics](https://......)
