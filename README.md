@@ -1,6 +1,6 @@
-# NTech Coursework: Module
+# NTech Coursework: Module ....
 
- [Top](#) | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | 
+ [Top](#) | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesTests ](CoursesTests.md#)[  🔵](CoursesTests) [CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
 
 <hr style="background: gray" />
 
@@ -16,6 +16,6 @@
 
 <hr style="background: gray" />
 
-Go to the Student_readme file :  [Top](#) | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | 
+ [Top](# ) |
 
 <hr style="background: gray" />
