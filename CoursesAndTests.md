@@ -1,6 +1,6 @@
 # Study course material
 
-| [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge) [CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
+| [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge) [CourseworkSubmission ](CourseworkSubmission.md#)[  🔵](CourseworkSubmission) | 
 
 <hr style="background: gray" />
 
