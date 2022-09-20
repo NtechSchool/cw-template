@@ -50,6 +50,6 @@ After finished the tutorials, you can rerun the selftests and check if you impro
 
 <hr style="background: gray" /> 
 
-Navigation :  [Top](#) | [Student_readme](Student_readme#) | [TheChallenge](TheChallenge#) | [StudentAnswer](StudentAnswer#) | 
+Navigation :  [Top](#) | [CourseworkGuide](CourseworkGuide#) | [TheChallenge](TheChallenge#) | [CourseworkSubmission](CourseworkSubmission#) | 
 
 <hr style="background: gray" /> 
