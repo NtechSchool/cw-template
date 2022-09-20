@@ -1,6 +1,6 @@
 # Coursework Guide template
 
-| [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesTests ](CoursesTests.md#)[  🔵](CoursesTests) [CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
+| [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [Courses and Tests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) [CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
 
 <hr style="background: gray" />
 
