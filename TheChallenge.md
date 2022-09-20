@@ -1,6 +1,6 @@
 # The Challenge for this coursework
 
-| [README ](README.md#)[  🔵](README) | [Courses and Tests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) [CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
+| [README ](README.md#)[  🔵](README) | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [Courses and Tests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) | [CourseworkSubmission ](CourseworkSubmission.md#)[  🔵](CourseworkSubmission) | 
 
 <hr style="background: gray" />
 
