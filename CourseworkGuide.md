@@ -1,4 +1,4 @@
-# NTech-subjectTopic-template repository template
+# Coursework Guide template
 
 
 ## Introduction
