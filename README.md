@@ -1,10 +1,6 @@
-# NTech Coursework: Module ....
+NTech | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesAndTests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) [CourseworkSubmission ](CourseworkSubmission.md#)[  🔵](CourseworkSubmission) | 
 
-<<<<<<< HEAD
- | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | 
-=======
-| [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesAndTests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) [CourseworkSubmission ](CourseworkSubmission.md#)[  🔵](CourseworkSubmission) | 
->>>>>>> 437c107001288a4e6505d7065c29f7f0a3268005
+# NTech Coursework: Module ....
 
 <hr style="background: gray" />
 
