@@ -1,5 +1,8 @@
 # Study course material
 
+| [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge) [CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
+
+<hr style="background: gray" />
 
 ## Pre-requisites knowledge
 
