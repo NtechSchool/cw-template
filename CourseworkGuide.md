@@ -1,8 +1,9 @@
-# Coursework Guide template
 
-| [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesAndTests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) [CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
+NTech | [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge) | [CoursesAndTests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) |[CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
 
 <hr style="background: gray" />
+
+# Coursework Guide template
 
 ## Introduction
 
