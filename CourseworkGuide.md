@@ -1,5 +1,8 @@
 # Coursework Guide template
 
+| [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesTests ](CoursesTests.md#)[  🔵](CoursesTests) [CourseSubmission ](CourseSubmission.md#)[  🔵](CourseSubmission) | 
+
+<hr style="background: gray" />
 
 ## Introduction
 
@@ -122,9 +125,7 @@ Check the tutorial on [HTML-tutorial](https://www.w3schools.com/html/default.asp
 
 
 <hr style="background: gray" /> 
-
-Navigation :  [Top](#) |  [Tutorials](Tutorials#) |[StudentAnswer](StudentAnswer#) | [TheChallenge](TheChallenge#) |
-
+ [Top](#) | 
 <hr style="background: gray" /> 
 
 .
