@@ -1,4 +1,4 @@
-NTech | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesAndTests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) [CourseworkSubmission ](CourseworkSubmission.md#)[  🔵](CourseworkSubmission) | 
+NTech | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [CoursesAndTests ](CoursesAndTests.md#) [CourseworkSubmission ] |(CourseworkSubmission.md#) | 
 
 # NTech Coursework: Module ....
 
@@ -9,8 +9,8 @@ NTech | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [The
 ## Coursework for : NTech WebApp Study
 
     Subject : xxxxxx
-    Topic   : yyyyyyzzzjjjlkjsøldkfjaølsdkfjøas
-    Module  : xxxxxxxxxxxx
+    Topic   : xxxxxx
+    Module  : xxxxxx
 
 ## Content
 
@@ -111,5 +111,7 @@ The steps is:
 <hr style="background: gray" />
 
  [Top](# ) |
+
+NTech | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesAndTests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) [CourseworkSubmission ](CourseworkSubmission.md#)[  🔵](CourseworkSubmission) | 
 
 <hr style="background: gray" />
