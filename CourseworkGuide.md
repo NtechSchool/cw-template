@@ -3,7 +3,7 @@ NTech | [README ](README.md#)[  🔵](README) | [TheChallenge ](TheChallenge.md
 
 <hr style="background: gray" />
 
-# Coursework Guide template
+# Coursework Guide for ......
 
 ## Introduction
 
