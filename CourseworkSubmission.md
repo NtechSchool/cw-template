@@ -1,8 +1,6 @@
+ NTech | [README ](README.md#) | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [Coursework ](Coursework.md#)  | [CoursesAndTests ](CoursesAndTests.md#) |
+
 # Coursework Submission
-
-| [README ](README.md#)[  🔵](README) |  [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge) | [Courses and Tests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) |  
-
-## Students response for this Coursework
 
 1. Business Proposition answer here:
 
@@ -63,5 +61,3 @@ https://host......
 
 <hr style="background: gray" /> 
 
-Navigation :  [Top](#) | [Student_readme](Student_readme#) | [Tutorials](Tutorials#) |[TheChallenge](TheChallenge#) |
-<hr style="background: gray" /> 

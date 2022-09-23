@@ -1,24 +1,28 @@
-NTech | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [CoursesAndTests ](CoursesAndTests.md#) | [CourseworkSubmission ](CourseworkSubmission.md#) | 
+NTech | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [Coursework ](./src) | [CourseworkSubmission ](CourseworkSubmission.md#) | [CoursesAndTests ](CoursesAndTests.md#) |
 
-# NTech Coursework: Module ....
+# NTech Coursework: "Module"
 
 <hr style="background: gray" />
 
-## Repository name:  cw--subjectTopic-module
+Repository name:  cw--subjectTopic-module
 
-## Coursework for : NTech WebApp Study
+Coursework for : NTech WebApp Study
 
     Subject : xxxxxx
     Topic   : xxxxxx
     Module  : xxxxxx
 
+---
+
 ## Content
 
 [CourseworkGuide](CourseworkGuide.md)  
 [The Challenge](TheChallenge.md)  
+[Coursework](Coursework.md)
+[CourseworkSubmission](CourseworkSubmission.md)  
 [Courses and Tests](CoursesAndTests.md)  
-[CourseworkSubmission](CourseworkSubmission.md)
 
+---
 
 ## Introduction
 
@@ -42,7 +46,7 @@ This Coursework it part of the course: WebApp Developer Study
 
 ---
 
-### Repository structure
+## Repository structure
 
 This Repository files and folders:
 
@@ -59,7 +63,7 @@ This Repository files and folders:
 
 ---
 
-### Main tasks of the coursework
+## Main tasks of the coursework
 
 The main tasks in this coursework follows a normal web-project path, with WebApp design, WebApp development, testing and deployment.
 Its based on the well tested methodologies like: DesignThinking, LEAN Startup and Agile Development.
@@ -98,20 +102,7 @@ The steps is:
         *Push the WebApp to GitHub*
         When you are finished with the coursework, you can push the branch to GitHub to complete the assignment.     
         </details>
-
 </details>
 
----
-
-
-
-
-
-
 <hr style="background: gray" />
 
- [Top](# ) |
-
-NTech | [CourseworkGuide ](CourseworkGuide.md#)[  🔵](CourseworkGuide) | [TheChallenge ](TheChallenge.md#)[  🔵](TheChallenge)| [CoursesAndTests ](CoursesAndTests.md#)[  🔵](CoursesAndTests) [CourseworkSubmission ](CourseworkSubmission.md#)[  🔵](CourseworkSubmission) | 
-
-<hr style="background: gray" />
