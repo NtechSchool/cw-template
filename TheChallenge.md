@@ -1,7 +1,6 @@
-# The Challenge for this coursework
-
- NTech | [README ](README.md#) | [CourseworkGuide ](CourseworkGuide.md#) | [Coursework ](src)  | [CourseSubmission ](CourseSubmission.md#) | [CoursesAndTests ](CoursesAndTests.md#) |
+ NTech | [README ](README.md#) | [CourseworkGuide ](CourseworkGuide.md#) | [Coursework ](Coursework.md#)  | [CourseSubmission ](CourseSubmission.md#) | [CoursesAndTests ](CoursesAndTests.md#) |
  
+# The Challenge for this coursework
 
 <hr style="background: gray" />
 

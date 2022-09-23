@@ -1,4 +1,4 @@
-NTech | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [Coursework ](./src) | [CourseworkSubmission ](CourseworkSubmission.md#) | [CoursesAndTests ](CoursesAndTests.md#) |
+NTech | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [Coursework ](Coursework.md#) | [CourseworkSubmission ](CourseworkSubmission.md#) | [CoursesAndTests ](CoursesAndTests.md#) |
 
 # NTech Coursework: "Module"
 

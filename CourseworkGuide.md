@@ -1,5 +1,4 @@
-
- NTech | [README ](README.md#) | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [CourseworkSubmission ](CourseworkSubmission.md#)  | [CoursesAndTests ](CoursesAndTests.md#) |
+NTech | [README ](README.md#) | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [CourseworkSubmission ](CourseworkSubmission.md#) | [CoursesAndTests ](CoursesAndTests.md#) |
  
 
 <hr style="background: gray" />
