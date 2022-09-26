@@ -1,6 +1,6 @@
  NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [CourseworkSubmission ](CourseworkSubmission.md)  | [CoursesAndTests ](CoursesAndTests.md) |
  
-## Coursework
+# Coursework
 
 The Cousework is carried out in the "src" folder.  Src is short for source.
 
