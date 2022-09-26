@@ -1,4 +1,4 @@
- NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [Coursework ](Coursework.md) | [CourseworkSubmission ](CoursesworkSubmission.md) |
+ NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [Coursework ](Coursework.md) | [CourseworkSubmission ](CourseworkSubmission.md) |
  
 # Study course material
 
