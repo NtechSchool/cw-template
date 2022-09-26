@@ -1,4 +1,4 @@
-NTech | [CourseworkGuide ](CourseworkGuide.md#) | [TheChallenge ](TheChallenge.md#) | [Coursework ](Coursework.md#) | [CourseworkSubmission ](CourseworkSubmission.md#) | [CoursesAndTests ](CoursesAndTests.md#) |
+NTech | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [Coursework ](Coursework.md) | [CourseworkSubmission ](CourseworkSubmission.md) | [CoursesAndTests ](CoursesAndTests.md) |
 
 # NTech Coursework: "Module"
 
@@ -17,7 +17,7 @@ Coursework for : NTech WebApp Study
 ## Content
 
 [CourseworkGuide](CourseworkGuide.md)  
-[The Challenge](TheChallenge.md)  
+[TheChallenge](TheChallenge.md)  
 [Coursework](Coursework.md)
 [CourseworkSubmission](CourseworkSubmission.md)  
 [Courses and Tests](CoursesAndTests.md)  
