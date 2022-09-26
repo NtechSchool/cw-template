@@ -2,8 +2,6 @@
  
 # The Challenge for this coursework
 
-<hr style="background: gray" />
-
 The challenge for this Coursework is to create a WebApp that can be used to:
 
 <hr style="background: lightblue" /> 
@@ -57,8 +55,5 @@ Elaborate on this challenge go to the [StudentAnswer.md](StudentAnswer.md#) to p
 
 .
 
-<hr style="background: gray" /> 
-
-Navigation :  [Top](#) | [Student_readme](Student_readme#) | [Tutorials](Tutorials#) | [StudentAnswer](StudentAnswer#) |
 
 <hr style="background: gray" /> 
