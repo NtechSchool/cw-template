@@ -8,7 +8,7 @@ Repository name:  cw--subjectTopic-module
 
 Coursework for : NTech WebApp Study
 
-    Subject : xxxxxx
+    Subject : xxxxxxx
     Topic   : xxxxxx
     Module  : xxxxxx
 
