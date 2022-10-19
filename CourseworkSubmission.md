@@ -1,8 +1,9 @@
- NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [Coursework ](Coursework.md)  | [CoursesAndTests ](CoursesAndTests.md) |
+V NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [Coursework ](Coursework.md)  | [CoursesAndTests ](CoursesAndTests.md) |
 
 # Coursework Submission
 
-1. Business Proposition answer here:
+(example)
+1. Business Value Proposition answer here:
 
    <code>
    *Write your business proposition, it may contain information on:*
@@ -16,7 +17,7 @@
     *It may also contain links to files like documents, images, etc. that you have uploaded to the doc folder in this repo*
     </code>
 
-    Your business proposition:  
+    Your value proposition:  
     xxx  
     xxx
 

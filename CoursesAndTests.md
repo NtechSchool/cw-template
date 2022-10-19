@@ -13,7 +13,21 @@ To Perform this Coursework you need following knowledge:
 
 ---
 
-## Selftests
+## NTech Courses: 
+
+[HTML Course test Alternative 1](https://github.com/NtechSchool/sp--webapp-study-content/blob/main/old-Ntech-study/Webtechnology/FrontEnd/01-Web/HTML/html-00/session.md)
+
+[ HTML Course test Alternative 2 ](https://github.com/NtechSchool/sp--webapp-study-content/blob/main/old-Ntech-study/Webtechnology/FrontEnd/01-Web/HTML/html-01/session.md)
+
+---
+
+(When developing this Courswork it might be more easy to first put the course content here and then it can be moved to Profession Domain ( Kjøleskap ) and linked from here)
+
+---
+
+## External Courses
+
+### Selftests
 
 You can take a selftest to check if you have the necessary knowledge. <code>( Right-click the link to open in new tab or window )</code>
 
@@ -27,7 +41,7 @@ If you want, you can upload the test results document to the doc folder here.
 
 ---
 
-## Tutorials
+### Tutorials
 
 If you need more knowledge, you can do these training/t tutorials:
 

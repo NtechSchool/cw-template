@@ -8,9 +8,7 @@ The the result of the Courswork is presented in two ways:
 
 1. Coding is carried out in the src folder.  (i.e. HTML, CSS, Javascript code).  <code>(Go to the src folder to perform this).</code>
 
-2. Text "answers" is carried out in the CourseSubission.md file. <code>(Go to [CourseworkSubmission ](CourseworkSubmission.md#)  to perform this).</code>
-
-.
+2. Submit your "answers" in the CourseSubmission.md file. <code>(Go to [ CourseworkSubmission ](CourseworkSubmission.md#)  to perform this).</code>
 
 .
 
