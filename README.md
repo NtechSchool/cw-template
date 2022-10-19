@@ -4,9 +4,9 @@ NTech | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.m
 
 <hr style="background: gray" />
 
-Repository name:  cw--subjectTopic-module
+Repository name:  cw--subject999-cw999-module
 
-Coursework for : NTech WebApp Study
+Coursework for : NTech WebApp Development and Design
 
     Subject : xxxxxxx
     Topic   : xxxxxx
@@ -26,7 +26,7 @@ Coursework for : NTech WebApp Study
 
 ## Introduction
 
-This Coursework it part of the course: WebApp Developer Study
+This Coursework it part of the Study: WebApp Developer and Design 
 
         Subject:  xxxxx
         Topic: xxxxx
@@ -45,48 +45,6 @@ This Coursework it part of the course: WebApp Developer Study
         xxxx
 
 ---
-
-## Main tasks of the coursework
-
-The main tasks in this coursework follows a normal web-project path, with WebApp design, WebApp development, testing and deployment.
-Its based on the well tested methodologies like: DesignThinking, LEAN Startup and Agile Development.
-
-The steps is:
-- [X] 0. Accept the Assignment: (Allready done as you are here)
-
-- [ ] 1. Read the Challenge text:
-        <details><summary>More ...</summary>
-        *this is a short description of the challenge to be solved by this WebApp*
-        The student(s) will read the challenge text and start working.  
-        </details>
-- [ ] 2. Make the Business proposition:
-        <details><summary>More ...</summary>
-        *What's in it for the end-user/organization ...*
-        The student(s) will write down a business proposition (in the StudentAnswer.md file)
-        </details>
-- [ ] 3. Design a solution:
-        <details><summary>More ...</summary>
-        *How should the end-user/organization use the WebApp*  
-        The student(s) will make a UX-design and then a UI-design for the WebApp.
-        </details>
-- [ ] 4. Implement the solution:
-        <details><summary>More...</summary>
-        *Implement the WebApp based on the design spec from previous step.*
-        The student(s) will develop the WebApp using the src folder to write the source code ( HTML, CSS, JavaScript).  
-        Tips:
-        *you can use the following resources to help you with this*
-        </details>
-- [ ] 5. Deploy the solution:
-        <details><summary>More ...</summary>
-        ...
-        </details>
-- [ ] 6. Push the solution to GitHub:
-        <details><summary>More ...</summary>
-        *Push the WebApp to GitHub*
-        When you are finished with the coursework, you can push the branch to GitHub to complete the assignment.     
-        </details>
-</details>
-
 
 <hr style="background: gray" />
 
