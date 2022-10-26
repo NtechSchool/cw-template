@@ -1,6 +1,8 @@
 NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [CourseworkSubmission ](CourseworkSubmission.md) | [CoursesAndTests ](CoursesAndTests.md) |
 
-## Main tasks of the coursework
+# Coursework Guide for: Modulexxx
+
+## 1. Main tasks of the coursework
 
 The main tasks in this coursework follows a normal web-project path, with WebApp design, WebApp development, testing and deployment.
 Its based on the well tested methodologies like: DesignThinking, LEAN Startup and Agile Development.
