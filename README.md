@@ -1,10 +1,10 @@
-NTech | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [Coursework ](Coursework.md) | [CourseworkSubmission ](CourseworkSubmission.md) | [CoursesAndTests ](CoursesAndTests.md) |
+NTech | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) |  | [CourseworkSubmission ](CourseworkSubmission.md) | [CoursesAndTests ](CoursesAndTests.md) |
 
 # NTech Coursework: "Module"
 
 <hr style="background: gray" />
 
-Repository name:  cw--subject999-cw999-module
+Repository name:  cw--subject9-cw999-module999
 
 Coursework for : NTech WebApp Development and Design
 
@@ -18,7 +18,6 @@ Coursework for : NTech WebApp Development and Design
 
 [CourseworkGuide](CourseworkGuide.md)  
 [TheChallenge](TheChallenge.md)  
-[Coursework](Coursework.md)  
 [CourseworkSubmission](CourseworkSubmission.md)  
 [Courses and Tests](CoursesAndTests.md)  
 
@@ -31,8 +30,6 @@ This Coursework it part of the Study: WebApp Developer and Design
         Subject:  xxxxx
         Topic: xxxxx
         
-        Learning Goal: 
-        xxxx
         Work requirement:
         xxxx
         Practice:
@@ -43,6 +40,17 @@ This Coursework it part of the Study: WebApp Developer and Design
         xxxx
         General competence:
         xxxx
+
+---
+
+## Prerequisite Knowledge
+
+To Perform this Coursework you need following knowledge:
+
+1. Git and GitHub - (Basic)
+1. HTML - (Basic) 
+1. CSS - (Basic)
+1. JavaScript - (Basic)
 
 ---
 
