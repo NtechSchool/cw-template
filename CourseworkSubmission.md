@@ -2,7 +2,7 @@ V NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [The
 
 # Coursework Submission
 
-[Rigth-Click this link to open the GitHub repository in a new window!](https://github.com/NtechSchool/cw-template/edit/main/CourseworkSubmission.md)
+[Rigth-Click this link ](https://github.com/NtechSchool/cw-template/edit/main/CourseworkSubmission.md) to open the GitHub repository in a new window!  
 
 (example)
 1. Business Value Proposition answer here:
