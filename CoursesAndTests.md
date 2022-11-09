@@ -55,6 +55,6 @@ Open the links below and click "Next" button to run through the tutorial.
 
 ---
 
-After finished the tutorials, you can rerun the selftests and check if you improved your score (and your knowledge) :)!
+After finished the tutorials, you can rerun the selftest and check if you have improved your score (and your knowledge) :)!
 
 <hr style="background: gray" /> 
