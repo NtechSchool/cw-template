@@ -5,7 +5,7 @@ V NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [The
 This is where the the student (you) reply and describe you answer to the challenge.
 You can repace the example lines below with your text.
 
-If you read this as a webpage url: "ntechschool.github.io/.....",
+If you read this as a webpage url: ```"ntechschool.github.io/....."```, 
 [Rigth-Click this link](https://github.com/NtechSchool/cw-template/edit/main/CourseworkSubmission.md) to open the GitHub repository in a new window and edit your reply!  
 
 (Example text. Replace the text below with your text!)
