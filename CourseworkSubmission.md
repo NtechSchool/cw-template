@@ -2,6 +2,8 @@ V NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [The
 
 # Coursework Submission
 
+[Click here to go to the GitHub repository to prepare you submission.](https://github.com/NtechSchool/cw-template/edit/main/CourseworkSubmission.md)
+
 (example)
 1. Business Value Proposition answer here:
 
