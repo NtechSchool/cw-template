@@ -1,4 +1,6 @@
-NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) | [CourseworkSubmission ](CourseworkSubmission.md) | [CoursesAndTests ](CoursesAndTests.md) |
+NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [TheChallenge ](TheChallenge.md) |  [CoursesAndTests ](CoursesAndTests.md) | [CourseworkSubmission ](CourseworkSubmission.md) |
+
+<hr style="background: gray" /> 
 
 # Coursework Guide for: Modulexxx
 
@@ -54,8 +56,6 @@ If you need to learn or refresh your knowledge, check out the links to Tutorials
 - ...
 - ...
 
-Check the tutorial on [HTML-tutorial](https://www.w3schools.com/html/default.asp) for more details.
-
 </details>
 
 <details><summary>Module 2 tips</summary>
@@ -63,16 +63,12 @@ Check the tutorial on [HTML-tutorial](https://www.w3schools.com/html/default.asp
 - ...
 - ...
 
-Check the tutorial on [HTML-tutorial](https://www.w3schools.com/html/default.asp) for more details.
-
 </details>
 
 <details><summary>Module 3 tips</summary>
 
 - ...
 - ...
-
-Check the tutorial on [HTML-tutorial](https://www.w3schools.com/html/default.asp) for more details.
 
 </details>
 
@@ -87,15 +83,15 @@ This Repository files and folders:
  Coursework.
 
 1. ***README.md*** - This is the README (index) file for this coursework.
-2. ***CourseworkGuide.md*** - This is the Guide for the student(s), with general information about the coursework and the procedure for performing the coursework. 
-3. ***TheChallenge.md*** - This is where the challenge for this Courswork is given.
-4. ***CourseworkSubmission.md*** - This is the file to write all answers of questions and challenges given in this Coursework.
-1. ***Coursework.md*** -  this is where the work is described.
-5. ***CoursesAndTests.md*** - This is where links to tutorials and self-tests relevant for this Coursework. 
-7. ***src*** - This is the folder where the student put all the source code for the coursework.
-8. ***doc*** - This is the folder where the teacher put additional documents for the coursework.
-9. ***img*** - This is the folder where the teacher put images for the coursework.
-6. ***.gitignore*** - Here you can add all files and folders that you want git to ignored and not pushed to GitHub repository.
+1. ***CourseworkGuide.md*** - This is the Guide for the student(s), with general information about the coursework and the procedure for performing the coursework. 
+1. ***TheChallenge.md*** - This is where the challenge for this Courswork is given.
+1. ***CourseworkSubmission.md*** - This is the file to write all answers of questions and challenges given in this Coursework.
+1. ***CoursesAndTests.md*** - This is where links to tutorials and self-tests relevant for this Coursework. 
+1. ***src*** - This is the folder where the student put all the source code for the coursework.
+1. ***doc*** - This is the folder where the teacher put additional documents for the coursework.
+1. ***img*** - This is the folder where the teacher put images for the coursework.
+1. ***.gitignore*** - Here you can add all files and folders that you want git to ignored and not pushed to GitHub repository.
+1. ***config.yml*** Configuration file for MarkDown to HTML in GitHub-pages.
 
 ---
 <hr style="background: gray" /> 
