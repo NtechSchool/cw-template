@@ -2,63 +2,68 @@ V NTech | [README ](README.md) | [CourseworkGuide ](CourseworkGuide.md) | [The
 
 # Coursework Submission
 
-[Rigth-Click this link ](https://github.com/NtechSchool/cw-template/edit/main/CourseworkSubmission.md) to open the GitHub repository in a new window!  
+This is where the the student (you) reply and describe you answer to the challenge.
+You can repace the example lines below with your text.
 
-(example)
-1. Business Value Proposition answer here:
+If you read this as a webpage url: "ntechschool.github.io/.....",
+[Rigth-Click this link](https://github.com/NtechSchool/cw-template/edit/main/CourseworkSubmission.md) to open the GitHub repository in a new window and edit your reply!  
 
-   <code>
-   *Write your business proposition, it may contain information on:*
+(Example text. Replace the text below with your text!)
 
-   1. *Business Value*
-   2. *Business Benefit*
-   3. *Business Cost*
-   4. *Business Risk*
-   5. *Business Opportunity*
+      1. Business Value Proposition answer here:
 
-    *It may also contain links to files like documents, images, etc. that you have uploaded to the doc folder in this repo*
-    </code>
+         <code>
+         *Write your business proposition, it may contain information on:*
 
-    Your value proposition:  
-    xxx  
-    xxx
+         1. *Business Value*
+         2. *Business Benefit*
+         3. *Business Cost*
+         4. *Business Risk*
+         5. *Business Opportunity*
 
-2. UX design
+          *It may also contain links to files like documents, images, etc. that you have uploaded to the doc folder in this repo*
+          </code>
 
-   <code>
-   *Write your UX-design specification, it may contain links to files like documents, images, etc. that you have uploaded to the doc or img folder in this repo:*
-    </code>
+          Your value proposition:  
+          xxx  
+          xxx
 
-    Your UX-design specifiction:
-    xxx  
-    [Link to spec-file](./doc/design.png)
+      2. UX design
 
-3. UI design
+         <code>
+         *Write your UX-design specification, it may contain links to files like documents, images, etc. that you have uploaded to the doc or img folder in this repo:*
+          </code>
 
-    <code>
-    *Write your UI-design specification, it may contain links to files like documents, images, etc.  that you have uploaded to the doc og img folder in this repo:*
-    </code>
+          Your UX-design specifiction:
+          xxx  
+          [Link to spec-file](./doc/design.png)
 
-    Your UX-design specification:
-    xxx  
-    [Link to spec-file](./doc/design.png)
+      3. UI design
 
-4. The solution
+          <code>
+          *Write your UI-design specification, it may contain links to files like documents, images, etc.  that you have uploaded to the doc og img folder in this repo:*
+          </code>
 
-   <code>
-   *Write your Code in the src folder, it may contain links to files like documents, images, etc. that you have uploaded to the doc or img folder in this repo:*
-    </code>
+          Your UX-design specification:
+          xxx  
+          [Link to spec-file](./doc/design.png)
 
-    Your UX-design specifiction:
-    xxx  
-    [Link to spec-file](./doc/design.png)
-( in the src directory)
+      4. The solution
 
-1. Deployment
-The deployment can be found in :
-https://host......
+         <code>
+         *Write your Code in the src folder, it may contain links to files like documents, images, etc. that you have uploaded to the doc or img folder in this repo:*
+          </code>
 
----
+          Your UX-design specifiction:
+          xxx  
+          [Link to spec-file](./doc/design.png)
+      ( in the src directory)
+
+      1. Deployment
+      The deployment can be found in :
+      https://host......
+
+      ---
 
 .
 
