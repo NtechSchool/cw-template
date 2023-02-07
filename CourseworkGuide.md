@@ -101,9 +101,8 @@ This Repository files and folders:
 <hr style="background: green" /> 
 <span style="color: green">
 Keep striving for progress over perfection! A little progress every day will go a very long way!" :)   
+</span> [Dave Gray] (https://youtube.com/@DaveGrayTeachesCode)
 
-</span>
-[Dave Gray](https://youtube.com/@DaveGrayTeachesCode)
 <hr style="background: green" /> 
 
 ---
